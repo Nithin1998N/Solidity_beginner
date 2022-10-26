@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.13+commit.abaa5c0e"
+		"version": "0.8.7+commit.e28d00a7"
 	},
 	"language": "Solidity",
 	"output": {
@@ -132,7 +132,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExtraStorage.sol": "ExtraStorage"
+			"ExtraStorage.sol": "ExtraStorage"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -146,15 +146,15 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExtraStorage.sol": {
-			"keccak256": "0x90d95a44d8e16cec105c84ba2374792fd536f1942252965ad9e777446d79b724",
+		"ExtraStorage.sol": {
+			"keccak256": "0x348c151c6e28b1f09cc9a75651014e841065819f9c292cdfd0290432d127a702",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a41da39e710d0ec51ad9b36bf93d85127f9199e7d3eec34e274398a9b0b87d43",
-				"dweb:/ipfs/QmcQqbVWWvNW4szZ3KRogqsu7WQShofeaGQ8tx6MvgxYYG"
+				"bzz-raw://9e745dde3e7954749cf34e0dd4dc475d4c67718175189bc81ac53b85f5fc1fd2",
+				"dweb:/ipfs/Qmcgpf2UifWkD7UN8Ze8eC7YZXsXAGcEmBtcrUUhuiXQ1K"
 			]
 		},
-		"contracts/SimpleStorage.sol": {
+		"SimpleStorage.sol": {
 			"keccak256": "0xf7d8a7644821b8763e6501c49ffcfe767f6d5dbfa673f37d4d6f65b0b56732b2",
 			"license": "MIT",
 			"urls": [
